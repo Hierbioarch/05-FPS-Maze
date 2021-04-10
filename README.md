@@ -1,4 +1,4 @@
-# 04-2D-Platformer
+# 05-FPS-Maze
 10 April 2021
 
 Project 05 for MSCH-C220
@@ -23,7 +23,7 @@ Audio
 
 [Enemy noise](https://freesound.org/people/gneube/sounds/315844/)
 
-[Music:The Biggest Discovery](https://patrickdearteaga.com/royalty-free-music/)
+[Music -  The Biggest Discovery](https://patrickdearteaga.com/royalty-free-music/)
 
 
 ## Future Development
